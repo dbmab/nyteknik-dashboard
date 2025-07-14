@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nyteknik-dashboard/static/js/main.d66f1cc9.js",
+    "index.html": "/nyteknik-dashboard/index.html",
+    "main.d66f1cc9.js.map": "/nyteknik-dashboard/static/js/main.d66f1cc9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d66f1cc9.js"
+  ]
+}
